@@ -5,6 +5,9 @@ presentation.html
 # Whoiknows db
 whoknows.db
 
+# Just don't
+.idea/
+
 
 ### Terraform ###
 
